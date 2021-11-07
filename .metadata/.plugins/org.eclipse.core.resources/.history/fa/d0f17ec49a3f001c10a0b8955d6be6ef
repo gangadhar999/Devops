@@ -1,0 +1,11 @@
+package com.Javashree.controller;
+
+public class EmployeeController {
+	
+	
+	public String getMessage() {
+		
+		return "Hello Devops";
+	}
+
+}
